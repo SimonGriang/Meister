@@ -3,22 +3,14 @@
 An einen Unternehmer werden verschiedene Anforderungen gestellt, um den Erfolg der beruflichen Selbstständigkeit zu gewährleisten. Diese lassen sich in drei Hauptbereiche unterteilen:
 
 ## 1. Persönliche Anforderungen
-Anforderungen an den Betriebsgründenden oder Übernehmenden, die bestimmte Charaktereigenschaften voraussetzen:
-- **Risikobereitschaft**
-- **Entscheidungsfreude**
-- **Verantwortungsbewusstsein**
-- **Kommunikationsfähigkeit**
-- **Körperliche & emotionale Stabilität / Belastbarkeit**
-- **Gewissenhaftigkeit**
+Anforderungen an den Betriebsgründenden oder Übernehmenden, die bestimmte Charaktereigenschaften voraussetzen.
+*(Siehe Details in diesem Dokument)*
 
-## 2. Familiäre Anforderungen
+## 2. [[1_1_2_Familiaere_Anforderungen|Familiäre Anforderungen]]
 Der Rückhalt im privaten Umfeld ist entscheidend.
-- Ist der (Ehe-)Partner unterstützend an Bord?
-- Bereitschaft, Freizeit und Hobbys vorübergehend zu opfern.
 
-## 3. Fachliche Anforderungen
-- Ausreichende Berufsausbildung.
-- Fachliche Qualifikation für das spezifische Handwerk.
+## 3. [[1_1_3_Fachliche_Anforderungen|Fachliche Anforderungen]]
+Fachwissen, Branchenerfahrung und kaufmännische Grundkenntnisse.
 
 ---
 
