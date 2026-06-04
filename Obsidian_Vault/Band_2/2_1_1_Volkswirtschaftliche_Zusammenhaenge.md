@@ -42,5 +42,7 @@ Das Verhältnis von **Geldvorrat** zu **Gütervorrat** bestimmt den Wert:
 - **EZB (Frankfurt):** Hat die geldpolitische Verantwortung in der Währungsunion.
 - **Hauptziel:** Sicherung der **Preisstabilität** und eines stabilen Euro (unabhängig von Regierungen).
 
+- [[2_1_1_d_e_Wirtschaftssysteme_Politik|2.1.1.d & e Wirtschaftssysteme und Wirtschaftspolitik]]
+
 ---
 *Verknüpfung:* [[Band_2_Index]] | [[2_1_Stellung_Handwerk_Volkswirtschaft]]
