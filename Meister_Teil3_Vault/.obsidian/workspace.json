@@ -11,10 +11,14 @@
             "id": "ffa77b4d781b431f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Band_2/Band_2_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Band_2_Index"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Band_2/Band_2_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Band_2_Index"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Band_2/Band_2_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Band_2_Index"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Band_2/Band_2_Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Band_2_Index"
             }
           }
         ]
@@ -178,6 +185,12 @@
   },
   "active": "ffa77b4d781b431f",
   "lastOpenFiles": [
+    "Band_2/2_2_d_Innuengsverbaende.md",
+    "Band_2/2_2_e_Sonstige_Organisationen.md",
+    "Band_2/2_2_c_Handwerkskammer.md",
+    "Band_2/2_2_b_Kreishandwerkerschaft.md",
+    "Band_2/2_2_a_Innung.md",
+    "Band_2/2_2_Handwerksorganisationen_Uebersicht.md",
     "Band_2/2_1_4_Kulturelle_Bedeutung.md",
     "Band_2/2_1_3_Gesellschaftliche_Bedeutung.md",
     "Band_2/2_1_2_d_Statistik_Handwerk.md",

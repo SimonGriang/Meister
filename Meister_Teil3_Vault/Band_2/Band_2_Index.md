@@ -22,3 +22,6 @@
 	- [[2_2_c_Handwerkskammer|2.2.c Die Handwerkskammer (HWK)]]
 	- [[2_2_d_Innuengsverbaende|2.2.d Landes- und Bundesinnungsverbände]]
 	- [[2_2_e_Sonstige_Organisationen|2.2.e Sonstige Organisationen]]
+	- [[2_2_2_Dienstleistungen_Uebersicht|2.2.2 Dienstleistungen]]
+		- [[2_2_2_a_Beratungsangebote|2.2.2.a Beratungsangebote]]
+		- [[2_2_2_b_Messen_Forschung|2.2.2.b Messen, Ausstellungen und Forschung]]
