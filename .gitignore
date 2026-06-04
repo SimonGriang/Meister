@@ -1,0 +1,7 @@
+# Gemini internal
+.gemini/
+.geminiignore
+
+# OS files
+.DS_Store
+Thumbs.db
