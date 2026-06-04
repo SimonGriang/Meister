@@ -9,3 +9,6 @@
 ## Kapitel 2: Bedeutung des Handwerks & Handwerksorganisationen
 - [[2_1_Stellung_Handwerk_Volkswirtschaft|2.1 Stellung des Handwerks in der Volkswirtschaft]]
 	- [[2_1_1_Volkswirtschaftliche_Zusammenhaenge|2.1.1 Grundzüge volkswirtschaftlicher Zusammenhänge]]
+	- [[2_1_2_Wirtschaftliche_Bedeutung_Handwerk|2.1.2 Wirtschaftliche Bedeutung des Handwerks]]
+		- [[2_1_2_a_Aufgaben_Handwerk|2.1.2.a Aufgaben des Handwerks]]
+		- [[2_1_2_b_Strukturwandel_Zukunft|2.1.2.b Strukturwandel und Zukunftsperspektiven]]
