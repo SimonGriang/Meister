@@ -2,32 +2,27 @@
 
 An einen Unternehmer werden verschiedene Anforderungen gestellt, um den Erfolg der beruflichen Selbstständigkeit zu gewährleisten. Diese lassen sich in drei Hauptbereiche unterteilen:
 
-## 1. Persönliche Anforderungen
-Die erfolgreiche Betriebsgründung oder -übernahme setzt bestimmte persönliche Eigenschaften voraus. Dazu gehören insbesondere:
+## 1. [[1_1_1_Persoenliche_Anforderungen|Persönliche Anforderungen]]
+Eigenschaften wie Risikobereitschaft, Belastbarkeit und Führungskompetenz.
 
-- **Risikobereitschaft & Entscheidungsfreude**
-- **Verantwortungsbewusstsein**
-- **Kommunikationsfähigkeit & Kontaktfreude**
-- **Körperliche sowie emotionale Stabilität & Belastbarkeit**
-- **Gewissenhaftigkeit**
-- **Konflikt- und Krisenmanagement (Flexibilität)**
-- **Strategisches Denken & Zielstrebigkeit**
-- **Sozialkompetenz & Verhaltensgeschick**
-- **Rhetorische Sicherheit**
-- **Führungseigenschaften & Durchsetzungsfähigkeit**
-- **Motivation & Offenheit für Neues**
+## 2. [[1_1_2_Familiaere_Anforderungen|Familiäre Anforderungen]]
+Der Rückhalt im privaten Umfeld und die Unterstützung durch den Partner.
 
-## 1.1 Selbstreflexion vor dem Schritt in die Selbstständigkeit
-Jeder Existenzgründer im Handwerk sollte vorab kritisch prüfen, inwieweit er die oben genannten Eigenschaften besitzt. Die persönlichen Voraussetzungen müssen ausgelotet werden, um das Risiko des Scheiterns zu minimieren.
+## 3. [[1_1_3_Fachliche_Anforderungen|Fachliche Anforderungen]]
+Fachwissen, Branchenerfahrung und kaufmännische Grundkenntnisse.
 
 ---
 
 ### Selbstkritische Fragen zur Analyse
-Um die persönlichen Voraussetzungen auszuloten, sollten insbesondere folgende Fragen gestellt werden:
-- Was sind meine Motive?
+Bevor der Schritt in die Selbstständigkeit gewagt wird, sollten folgende Fragen zur eigenen Eignung geklärt werden:
+- Was sind meine Motive für die Selbstständigkeit?
+- Bin ich der Typ dazu?
 - Habe ich die persönliche Stärke?
 - Kann ich Wichtiges von Unwichtigem unterscheiden?
-- Verfüge ich über überdurchschnittliche physische Belastbarkeit?
-- Reichen meine fachlichen Qualifikationen aus?
+- Verfüge ich über eine überdurchschnittliche physische und körperliche Belastbarkeit?
+- Kann ich Hobbys/Freizeit vorübergehend opfern?
+- Ist mein (Ehe-)Partner unterstützend an Bord?
+- Reichen Berufsausbildung und fachliche Qualifikation aus?
 
-*Verknüpfung:* [[Band_2_Index]] | [[1_Persoenliche_Voraussetzungen]]
+---
+*Verknüpfung:* [[Band_2_Index]]
