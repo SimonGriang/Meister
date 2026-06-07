@@ -2,7 +2,12 @@
 
 Für eine erfolgreiche Existenzgründung müssen verschiedene Rechtsgebiete bereits in der Planungsphase berücksichtigt werden.
 
+## Kernbereiche der Gründung
+- [[3_1_1_a_Rechtsformen|3.1.1.a Wahl der Rechtsform]]
+- [[3_1_1_b_Formalitaeten|3.1.1.b Anmeldungen und Formalitäten]]
+
 ## Einschlägige Rechtsgebiete für das Handwerk
+... (rest of the file)
 - **Handwerksrecht:** Prüfung der Voraussetzungen nach der Handwerksordnung (HwO).
 - **Handelsrecht:** Beachtung von Vorschriften des Kaufrechts.
 - **Steuerrecht:** Erfüllung der steuerlichen Pflichten als Betriebsinhaber.

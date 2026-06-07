@@ -29,3 +29,5 @@
 - [[3_Beratung_und_Foerderung_Uebersicht|3.0 Übersicht Kapitel 3]]
 	- [[3_1_Gruendungsberatung|3.1 Gründungsberatung]]
 	- [[3_1_1_Rechtliche_Aspekte|3.1.1 Rechtliche Aspekte]]
+		- [[3_1_1_a_Rechtsformen|3.1.1.a Wahl der Rechtsform]]
+		- [[3_1_1_b_Formalitaeten|3.1.1.b Anmeldungen und Formalitäten]]
