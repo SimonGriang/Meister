@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Band_2/Band_2_Index.md",
+                "file": "Band_2/2_2_Handwerksorganisationen_Uebersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Band_2_Index"
+              "title": "2_2_Handwerksorganisationen_Uebersicht"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Band_2/Band_2_Index.md",
+                "file": "Band_2/2_2_Handwerksorganisationen_Uebersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Band_2_Index"
+              "title": "Backlinks for 2_2_Handwerksorganisationen_Uebersicht"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Band_2/Band_2_Index.md",
+                "file": "Band_2/2_2_Handwerksorganisationen_Uebersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Band_2_Index"
+              "title": "Outgoing links from 2_2_Handwerksorganisationen_Uebersicht"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Band_2/Band_2_Index.md",
+                "file": "Band_2/2_2_Handwerksorganisationen_Uebersicht.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Band_2_Index"
+              "title": "Outline of 2_2_Handwerksorganisationen_Uebersicht"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "ffa77b4d781b431f",
   "lastOpenFiles": [
+    "Band_2/Band_2_Index.md",
+    "Band_2/2_2_2_b_Messen_Forschung.md",
+    "Band_2/2_2_2_a_Beratungsangebote.md",
+    "Band_2/2_2_2_Dienstleistungen_Uebersicht.md",
     "Band_2/2_2_d_Innuengsverbaende.md",
     "Band_2/2_2_e_Sonstige_Organisationen.md",
     "Band_2/2_2_c_Handwerkskammer.md",
@@ -202,7 +206,6 @@
     "Band_2/1_1_Anforderungen_Unternehmer.md",
     "Band_2/1_Persoenliche_Voraussetzungen.md",
     "Band_2/1_1_3_Fachliche_Anforderungen.md",
-    "Band_2/Band_2_Index.md",
     "Band_2/2_1_Stellung_Handwerk_Volkswirtschaft.md",
     "Band_2/2_1_1_Volkswirtschaftliche_Zusammenhaenge.md",
     "Band_2/1_1_2_Familiaere_Anforderungen.md",

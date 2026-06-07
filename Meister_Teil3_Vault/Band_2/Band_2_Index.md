@@ -25,3 +25,7 @@
 	- [[2_2_2_Dienstleistungen_Uebersicht|2.2.2 Dienstleistungen]]
 		- [[2_2_2_a_Beratungsangebote|2.2.2.a Beratungsangebote]]
 		- [[2_2_2_b_Messen_Forschung|2.2.2.b Messen, Ausstellungen und Forschung]]
+## Kapitel 3: Beratungs- und Förderleistungen
+- [[3_Beratung_und_Foerderung_Uebersicht|3.0 Übersicht Kapitel 3]]
+	- [[3_1_Gruendungsberatung|3.1 Gründungsberatung]]
+	- [[3_1_1_Rechtliche_Aspekte|3.1.1 Rechtliche Aspekte]]
