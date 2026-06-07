@@ -3,13 +3,36 @@
 Eine Existenzgründung erfordert zahlreiche Behördengänge. Viele Daten werden über die Gewerbeanmeldung automatisch weitergeleitet.
 
 ## Zentrale Anlaufstellen & Anmeldungen
-1. **Handwerkskammer (HWK):** Eintragung in die Handwerksrolle (zulassungspflichtig) oder das Verzeichnis (zulassungsfrei/ähnlich). Ausstellung der **Handwerkskarte / Gewerbekarte**.
-2. **Gewerbeamt:** Offizielle Gewerbeanmeldung.
-3. **Finanzamt:** Steuerliche Erfassung.
-4. **Agentur für Arbeit:** (Betriebsnummer).
-5. **Berufsgenossenschaften:** Gesetzliche Unfallversicherung.
-6. **Gewerbeaufsichtsamt:** Einhaltung von Sicherheitsvorschriften.
-7. **Sonstige:** Krankenkasse, Versicherungen, Bauamt, Versorgungsunternehmen, Post/Telekom.
+
+### 1. Handwerkskammer (HWK)
+- Eintragung in die **Handwerksrolle** (zulassungspflichtig) oder das **Verzeichnis** (zulassungsfrei/ähnlich).
+- Ausstellung der **Handwerkskarte / Gewerbekarte**.
+- In einigen Bundesländern kann die Gewerbeanmeldung direkt über die Kammern erfolgen.
+
+### 2. Handels- & Gesellschaftsregister (Amtsgericht)
+- Bei Vorliegen der Voraussetzungen ist eine Eintragung in das jeweilige Register erforderlich.
+- **Transparenzregister:** Alle im Handelsregister eingetragenen Gesellschaften müssen ihre wirtschaftlich Berechtigten zusätzlich elektronisch melden.
+
+### 3. Gewerbeamt
+- Registrierung der **Gewerbeanmeldung**.
+- Information an weitere zuständige Institutionen.
+
+### 4. Finanzamt
+- Ausfüllen des Fragebogens zur steuerlichen Erfassung.
+- Zuteilung der **Steuernummer**.
+
+### 5. Agentur für Arbeit
+- Zuteilung einer **Betriebsnummer**, sofern Arbeitnehmer beschäftigt werden.
+
+### 6. Branchenbezogene Versorgungseinrichtungen
+- Erforderlich je nach Branche (z. B. im Baugewerbe).
+
+### 7. Gewerbeaufsichtsamt
+- Überwachung der **Arbeitsschutzgesetze**.
+
+### 8. Weitere Stellen
+- Berufsgenossenschaften (Gesetzliche Unfallversicherung).
+- Krankenkasse, Versicherungen, Bauamt, Versorgungsunternehmen.
 
 ## Besondere Register
 - **Handelsregister / Gesellschaftsregister** (je nach Rechtsform).
