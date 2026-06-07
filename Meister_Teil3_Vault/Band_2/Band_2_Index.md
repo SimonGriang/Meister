@@ -37,3 +37,6 @@
 - [[3_2_2_a_Definition_KMU|3.2.2.a Definition KMU & Voraussetzungen]]
 - [[3_2_2_c_ERP_Programme|3.2.2.c ERP-Förderprogramme (KfW)]]
 - [[3_2_2_d_Buergschaftsbanken|3.2.2.d Bürgschaftsbanken]]
+## Kapitel 4: Standort, Personal und Ausstattung
+- [[4_Standort_Personal_Ausstattung_Uebersicht|4.0 Übersicht Kapitel 4]]
+	- [[4_1_Markt_und_Standortanalyse|4.1 Markt- und Standortanalyse]]
