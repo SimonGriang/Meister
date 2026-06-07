@@ -42,8 +42,22 @@ Für eine fundierte Entscheidung müssen verschiedene Ebenen analysiert werden:
 - **Dichte:** Wie viele Mitbewerber gibt es im Einzugsgebiet?
 - **Analyse:** Identifikation von Stärken und Schwächen der Konkurrenz.
 
+## 4.1.3 Die Kundenstruktur (Zielgruppenanalyse)
+
+Ein zentraler Bestandteil des Konzepts ist die Identifikation und Analyse der Zielgruppen. Der Gründer muss festlegen, wen er ansprechen möchte.
+
+### Leitfragen zur Zielgruppenbestimmung:
+- **Kundentyp:** Gewerbliche Abnehmer, Privatpersonen oder öffentliche Auftraggeber?
+- **Demografie:** Welche Altersgruppen, Geschlechter oder Familienkonstellationen sind relevant?
+- **Sozioökonomie:** Welche Einkommensgruppen und sozialen Schichten werden anvisiert?
+- **Einstellungen & Werte:** Sind die Kunden z. B. umwelt- oder gesundheitsbewusst?
+- **Lebensstil:** Anspruchsvolle vs. genügsame Lebensweise? Mobilitätsverhalten?
+- **Kaufverhalten:** Bevorzugung von Online-Angeboten? Spezifische Einkaufsgewohnheiten und Vorlieben?
+
 > [!IMPORTANT] Fazit
-> Eine gründliche Marktanalyse und die Prüfung dieser Fakten sind essenziell für den Gründungserfolg und die langfristige Wettbewerbsfähigkeit.
+> Eine präzise Definition der Kundenstruktur ermöglicht es, das Produkt- und Leistungsangebot exakt auf die Bedürfnisse der Zielgruppe zuzuschneiden.
+
+---
 
 ## Informationsquellen zur Markteinschätzung
 ... (rest of the file)
