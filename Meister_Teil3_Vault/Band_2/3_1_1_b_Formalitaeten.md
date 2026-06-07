@@ -30,9 +30,20 @@ Eine Existenzgründung erfordert zahlreiche Behördengänge. Viele Daten werden 
 ### 7. Gewerbeaufsichtsamt
 - Überwachung der **Arbeitsschutzgesetze**.
 
-### 8. Weitere Stellen
-- Berufsgenossenschaften (Gesetzliche Unfallversicherung).
-- Krankenkasse, Versicherungen, Bauamt, Versorgungsunternehmen.
+### 8. Berufsgenossenschaften (BG)
+- Zuständig für die **Pflichtversicherung** der Arbeitnehmer (Gesetzliche Unfallversicherung).
+- Je nach Satzung: Pflicht- oder freiwillige Versicherung des Unternehmers.
+
+### 9. Krankenkasse / Minijob-Zentrale
+- Anmeldung der Arbeitnehmer bei einer gesetzlichen Krankenkasse.
+- Geringfügig Beschäftigte werden bei der **Minijob-Zentrale** gemeldet.
+
+### 10. Versorgungsunternehmen & Kommunikation
+- Abschluss von Lieferverträgen (Strom, Gas, Wasser) und Entsorgungsverträgen (Abfall/Abwasser).
+- Rechtzeitige Einrichtung von Telefon, Internet und E-Mail.
+
+### 11. Bauamt
+- Abstimmung und Beantragung von gewerblichen Um- und Neubauten oder Nutzungsänderungen.
 
 ## Besondere Register
 - **Handelsregister / Gesellschaftsregister** (je nach Rechtsform).

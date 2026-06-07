@@ -31,3 +31,5 @@
 	- [[3_1_1_Rechtliche_Aspekte|3.1.1 Rechtliche Aspekte]]
 		- [[3_1_1_a_Rechtsformen|3.1.1.a Wahl der Rechtsform]]
 		- [[3_1_1_b_Formalitaeten|3.1.1.b Anmeldungen und Formalitäten]]
+	- [[3_1_2_Konzeptionelle_Aspekte|3.1.2 Konzeptionelle Aspekte (Businessplan)]]
+	- [[3_1_3_Finanzielle_Aspekte|3.1.3 Finanzielle Aspekte (Finanzierung)]]
