@@ -33,3 +33,7 @@
 		- [[3_1_1_b_Formalitaeten|3.1.1.b Anmeldungen und Formalitäten]]
 	- [[3_1_2_Konzeptionelle_Aspekte|3.1.2 Konzeptionelle Aspekte (Businessplan)]]
 	- [[3_1_3_Finanzielle_Aspekte|3.1.3 Finanzielle Aspekte (Finanzierung)]]
+- [[3_2_1_Oeffentliche_Foerdermittel|3.2.1 Öffentliche Förder- und Finanzierungsmittel]]
+- [[3_2_2_a_Definition_KMU|3.2.2.a Definition KMU & Voraussetzungen]]
+- [[3_2_2_c_ERP_Programme|3.2.2.c ERP-Förderprogramme (KfW)]]
+- [[3_2_2_d_Buergschaftsbanken|3.2.2.d Bürgschaftsbanken]]
