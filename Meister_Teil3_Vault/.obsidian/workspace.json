@@ -11,10 +11,14 @@
             "id": "ffa77b4d781b431f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Lernunterlagen/Lernzusammenfassung_Kapitel_7_Rechtsformen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lernzusammenfassung_Kapitel_7_Rechtsformen"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Band_1/Band_1_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Band_1_Index"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Band_1/Band_1_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Band_1_Index"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Band_1/Band_1_Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Band_1_Index"
             }
           }
         ]
@@ -178,31 +185,39 @@
   },
   "active": "ffa77b4d781b431f",
   "lastOpenFiles": [
-    "Band_2/2_2_Handwerksorganisationen_Uebersicht.md",
-    "Band_2/4_1_Markt_und_Standortanalyse.md",
-    "Band_2/4_Standort_Personal_Ausstattung_Uebersicht.md",
-    "Band_2/3_2_2_d_Buergschaftsbanken.md",
-    "Band_2/3_2_2_c_ERP_Programme.md",
-    "Band_2/3_2_2_a_Definition_KMU.md",
-    "Band_2/3_2_1_Oeffentliche_Foerdermittel.md",
-    "Band_2/3_1_3_Finanzielle_Aspekte.md",
-    "Band_2/3_1_2_Konzeptionelle_Aspekte.md",
-    "Band_2/3_1_1_b_Formalitaeten.md",
-    "Band_2/3_1_1_a_Rechtsformen.md",
-    "Band_2/3_1_1_Rechtliche_Aspekte.md",
-    "Band_2/3_Beratung_und_Foerderung_Uebersicht.md",
-    "Band_2/3_1_Gruendungsberatung.md",
-    "Band_2/Band_2_Index.md",
-    "Band_2/2_2_2_b_Messen_Forschung.md",
-    "Band_2/2_2_2_a_Beratungsangebote.md",
-    "Band_2/2_2_2_Dienstleistungen_Uebersicht.md",
-    "Band_2/2_2_d_Innuengsverbaende.md",
-    "Band_2/2_2_e_Sonstige_Organisationen.md",
-    "Band_2/2_2_c_Handwerkskammer.md",
-    "Band_2/2_2_b_Kreishandwerkerschaft.md",
-    "Band_2/2_2_a_Innung.md",
-    "Band_2/2_1_4_Kulturelle_Bedeutung.md",
-    "Band_2/2_1_3_Gesellschaftliche_Bedeutung.md",
-    "Band_2/2_1_2_d_Statistik_Handwerk.md"
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_7_Rechtsformen.pdf",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_6_Finanzierung.md",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_6_Finanzierung.pdf",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_7_Rechtsformen.md",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_5_Marketing.pdf",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_5_Marketing.md",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_4_Standort_und_Personal.md",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_4_Standort_und_Personal.pdf",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_3_Beratung_und_Foerderung.md",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_3_Beratung_und_Foerderung.pdf",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_2_Handwerk_und_Wirtschaft.md",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_2_Handwerk_und_Wirtschaft.pdf",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_1_Persoenliche_Voraussetzungen.pdf",
+    "Lernunterlagen/standby-schedule-2026-05-30.pdf",
+    "Lernunterlagen/Lernzusammenfassung_Kapitel_1_Persoenliche_Voraussetzungen.md",
+    "Band_2/6_Finanzierung_Uebersicht.md",
+    "Lernunterlagen",
+    "Band_2/7_1_2_d_Stille_Gesellschaft.md",
+    "Band_2/7_1_2_c_KG.md",
+    "Band_2/7_1_2_b_OHG.md",
+    "Band_2/7_1_2_a_GbR.md",
+    "Band_2/7_1_2_Personengesellschaften_Uebersicht.md",
+    "Band_2/7_1_1_c_Gruendung_und_Haftungsrisiken.md",
+    "Band_2/7_1_1_a_GmbH_Grundlagen.md",
+    "Band_2/7_1_Einzelunternehmen_und_Uebersicht.md",
+    "Band_2/7_Rechtsformen_Uebersicht.md",
+    "Band_2/6_3_3_Liquiditaetsmanagement.md",
+    "Band_2/6_3_2_Liquiditaetsplan.md",
+    "Band_2/6_3_1_Finanzplanung.md",
+    "Band_2/6_2_4_Rentabilitaetsvorschau.md",
+    "Band_2/6_2_3_Umsatzplanung_Mindestumsatz.md",
+    "Band_2/1_1_Anforderungen_Unternehmer.md",
+    "Band_2/1_1_1_Persoenliche_Anforderungen.md",
+    "Band_1/Band_1_Index.md"
   ]
 }
