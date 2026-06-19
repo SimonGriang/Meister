@@ -26,3 +26,17 @@ Dieses Projekt dient dem Aufbau einer Wissensdatenbank in Form eines Obsidian Va
     - `Band_2_Index.md`
   - `Band_3/`
     - `Band_3_Index.md`
+
+## Erstellung von Lernzusammenfassungen (Lernunterlagen)
+
+### 1. Zeitpunkt der Erstellung
+- **Wann:** Kapitelübergreifende Zusammenfassungen (z. B. im Ordner `Lernunterlagen/` als `Lernzusammenfassung_Kapitel_X_...`) werden **ausschließlich nach expliziter Aufforderung** durch den Benutzer erstellt oder aktualisiert.
+- **Vorheriger Workflow:** Neuer Input wird zunächst ausschließlich in Form von detaillierten, atomaren Einzelnotizen in den jeweiligen Band-Verzeichnissen (z. B. `Band_2/`) aufbereitet und im entsprechenden Index verlinkt.
+
+### 2. Stil & Inhaltliche Anforderungen
+- **Detailtiefe:** Zusammenfassungen dürfen nicht zu grob sein. Jedes Unterkapitel (z. B. 2.2.3, 3.1.3) und alle Unterpunkte (a, b, etc.) müssen mit ihren Kerninhalten vertreten sein.
+- **Formeln:** Mathematische oder betriebswirtschaftliche Formeln und Kennzahlen (z. B. Anlagendeckung, Deckungsbeitrag, Mindestumsatz) sind im LaTeX-Format (`$$ ... $$` oder `$ ... $`) darzustellen.
+- **Diagramme:** Visualisierungen (wie Mermaid-Flowcharts oder -Mindmaps) sind zur Veranschaulichung einzubauen.
+  - **Syntax-Sicherheit:** Subgraphen und Knotennamen mit Sonderzeichen (z. B. `&`, `(`, `)`) müssen zwingend in doppelte Anführungszeichen gesetzt werden (z. B. `subgraph "Fachliche Gliederung (Berufsbezogen)"`), um Parser-Fehler in Obsidian zu vermeiden.
+- **Tabellen:** Komplexe Unterschiede oder Gegenüberstellungen (z. B. Rechtsformen, Liquiditätsgrade) sind übersichtlich in Markdown-Tabellen aufzubereiten.
+

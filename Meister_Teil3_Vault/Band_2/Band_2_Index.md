@@ -8,6 +8,8 @@
 > - [[Lernzusammenfassung_Kapitel_5_Marketing|📄 Zusammenfassung Kapitel 5]]
 > - [[Lernzusammenfassung_Kapitel_6_Finanzierung|📄 Zusammenfassung Kapitel 6]]
 > - [[Lernzusammenfassung_Kapitel_7_Rechtsformen|📄 Zusammenfassung Kapitel 7]]
+> - [[Lernzusammenfassung_Kapitel_8_Rechtsvorschriften|📄 Zusammenfassung Kapitel 8]]
+
 
 ## Kapitel 1: Persönliche Voraussetzungen für den Erfolg begründen
 - [[1_1_Anforderungen_Unternehmer|1.1 Anforderungen an einen Unternehmer]]
@@ -93,4 +95,13 @@
 		- [[7_1_2_b_OHG|7.1.2.b Die OHG]]
 		- [[7_1_2_c_KG|7.1.2.c Die KG (inkl. GmbH & Co. KG)]]
 		- [[7_1_2_d_Stille_Gesellschaft|7.1.2.d Die stille Gesellschaft]]
-_Gesellschaft|7.1.2.d Die stille Gesellschaft]]
+
+## Kapitel 8: Rechtsvorschriften anwenden
+- [[8_Rechtsvorschriften_Uebersicht|8.0 Übersicht Kapitel 8]]
+	- [[8_1_Einteilung_Rechtsordnung|8.1 Einteilung der Rechtsordnung]]
+		- [[8_1_1_Privates_Oeffentliches_Recht|8.1.1 Privates und öffentliches Recht]]
+		- [[8_1_2_Systematik_BGB|8.1.2 Systematik des Bürgerlichen Gesetzbuches]]
+	- [[8_2_1_Rechts_Geschaefts_Deliktsfaehigkeit|8.2.1 Rechts-, Geschäfts- und Deliktsfähigkeit]]
+	- [[8_2_2_Rechtsgeschaeftliches_Handeln|8.2.2 Rechtsgeschäftliches Handeln (Willenserklärungen, Vertretung & Vollmacht)]]
+
+
